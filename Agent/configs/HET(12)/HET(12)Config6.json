@@ -1,0 +1,10 @@
+{
+    "name": "ConservatismProfile0",
+    "model_name": "deepseek-v3-250324",
+    "temperature": 0.3,
+    "top_p": 0.9,
+    "log_file": "logs/logs-deepseekv3-HET12/ConservatismProfile0.log",
+    "original_capital": 3500,
+    "fund_supplement": 700,
+    "Nickl": 0
+}

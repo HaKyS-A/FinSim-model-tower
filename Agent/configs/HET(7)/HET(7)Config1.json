@@ -1,0 +1,10 @@
+{
+    "name": "AggressiveProfile",
+    "model_name": "deepseek-v3-250324",
+    "temperature": 0.3,
+    "top_p": 0.9,
+    "log_file": "logs/logs-deepseekv3-HET7/AggressiveProfile.log",
+    "original_capital": 10000,
+    "fund_supplement": 2000,
+    "Nickl": 0
+}

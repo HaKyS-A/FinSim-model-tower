@@ -1,0 +1,10 @@
+{
+    "name": "InsConProfile",
+    "model_name": "deepseek-v3-250324",
+    "temperature": 0.3,
+    "top_p": 0.9,
+    "log_file": "logs/logs-deepseekv3-HET5/InsConProfile.log",
+    "original_capital": 30000,
+    "fund_supplement": 6000,
+    "Nickl": 0
+}

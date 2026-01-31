@@ -1,0 +1,10 @@
+{
+    "name": "AggNicProfile",
+    "model_name": "deepseek-v3-250324",
+    "temperature": 0.3,
+    "top_p": 0.9,
+    "log_file": "logs/logs-deepseekv3-HET5/AggNicProfile.log",
+    "original_capital": 15000,
+    "fund_supplement": 3000,
+    "Nickl": 0
+}

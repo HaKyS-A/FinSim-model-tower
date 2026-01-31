@@ -1,0 +1,10 @@
+{
+    "name": "全球性综合金属生产集团",
+    "model_name": "deepseek-v3-250324",
+    "temperature": 0.3,
+    "top_p": 0.9,
+    "log_file": "logs/logs-deepseekv3-r1/全球性综合金属生产集团-QingShan.log",
+    "original_capital": 50000,
+    "fund_supplement": 4000,
+    "Nickl": 50000
+}

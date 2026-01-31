@@ -1,0 +1,9 @@
+{
+  "initial_futures_price": 2.1034,
+  "security_fund_rate": 12.5,
+  "limit": 100,
+  "dbname": "fin_sim_futures_deepseekv3_r1",
+  "initial_actuals_price": 2.03,
+  "contract_round": 10,
+  "Ni_inventory": 70001
+}
