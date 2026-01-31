@@ -58,3 +58,6 @@ You must specify:
 - The output folder for dialogue logs (`folder`)
 - The database name (`db_name`)
 Select the appropriate main function or execution mode based on your experimental setup.
+
+## Our Preprint Paper
+[Advanced simulation paradigm of human behaviour unveils complex financial systemic projection](https://arxiv.org/abs/2503.20787)
